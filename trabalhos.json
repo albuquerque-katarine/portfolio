@@ -3,47 +3,47 @@
         {
             "id": "1",
             "name": "Calculadora",
-            "url": "https://github.com/katarinebalbuquerque/JavaScript/tree/main/calculadora"
+            "url": "https://github.com/albuquerque-katarine/calculadora-javascript"
         },
         {
             "id": "2",
             "name": "Contador de cliques",
-            "url": "https://github.com/katarinebalbuquerque/JavaScript/tree/main/contador%20de%20cliques"
+            "url": "https://github.com/albuquerque-katarine/contador-de-cliques-javascript"
         },
         {
             "id": "3",
             "name": "Tela de Login",
-            "url": "https://github.com/katarinebalbuquerque/JavaScript/tree/main/login"
+            "url": "https://github.com/albuquerque-katarine/login-javascript"
         },
         {
             "id": "4",
             "name": "To-Do",
-            "url": "https://github.com/katarinebalbuquerque/ReactJs/tree/main/To-Do"
+            "url": "https://github.com/albuquerque-katarine/to-do-reactjs"
         },
         {
             "id": "5",
             "name": "Organizar Compras",
-            "url": "https://github.com/katarinebalbuquerque/ReactJs/tree/main/compras"
+            "url": "https://github.com/albuquerque-katarine/organizar-compras-reactjs"
         },
         {
             "id": "6",
             "name": "Advinhar Número",
-            "url": "https://github.com/katarinebalbuquerque/JavaScript/tree/main/adivinhar%20numero"
+            "url": "https://github.com/albuquerque-katarine/advinhar-numero-javascript"
         },
         {
             "id": "7",
             "name": "Feriados Nacionais",
-            "url": "https://github.com/katarinebalbuquerque/ReactJs/tree/main/feriados"
+            "url": "https://github.com/albuquerque-katarine/feriados-nacionais-brasil-reactjs"
         },
         {
             "id": "8",
             "name": "Organizador de Tarefas",
-            "url": "https://github.com/katarinebalbuquerque/reactjs-organizador-de-tarefas"
+            "url": "https://github.com/albuquerque-katarine/organizador-de-tarefas-reactjs"
         },
         {
             "id": "9",
             "name": "Sabor da Terra App",
-            "url": "https://github.com/katarinebalbuquerque/reactjs-sabor-da-terra"
+            "url": "https://github.com/albuquerque-katarine/sabor-da-terra-reactjs"
         }
     ]
 }
