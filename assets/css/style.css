@@ -23,10 +23,9 @@ body::-webkit-scrollbar {
 }
 
 .page {
-    width: calc(100% - 40px);
+    width: 100%;
     height: auto;
     margin: 0 auto;
-    padding: 20px;
 }
 
 /* TEXTO e TITULOS */
@@ -112,17 +111,19 @@ strong:hover {
 /* HEADER */
 
 #header {
-    max-width: 1100px;
+    /* max-width: 1100px; */
     width: 100%;
     height: auto;
     margin: 0 auto;
     display: block;
+    background-color: #FFF;
 }
 
 /* HEADER NAV */
 
 #header-nav {
-    width: calc(100% - 20px);
+    max-width: 1100px;
+    width: 100%;
     height: auto;
     padding: 10px 20px;
     display: flex;
@@ -130,6 +131,7 @@ strong:hover {
     justify-content: space-between;
     align-items: center;
     position: relative;
+    margin: 0 auto;
 }
 
 /* HEADER LOGO */
@@ -144,7 +146,7 @@ strong:hover {
 .header-menu-abrir {
     width: auto;
     height: auto;
-    padding: 0;
+    padding: 0 20px;
     display: flex;
     gap: 10px;
     justify-content: flex-end;
@@ -181,6 +183,7 @@ strong:hover {
     max-width: 1100px;
     width: 100%;
     height: auto;
+    padding: 0 20px;
     margin: 0 auto;
     display: block;
 }
@@ -307,6 +310,7 @@ strong:hover {
     max-width: 1100px;
     width: 100%;
     height: auto;
+    padding: 20px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -376,9 +380,12 @@ strong:hover {
         font-size: 1.25rem;
     }
 
-    .page {
-        width: calc(100% - 3px);
-        padding: 10px 1.5px;
+    #header,
+    #header-nav,
+    #main,
+    #footer {
+        padding-left: 2px;
+        padding-right: 2px;
     }
 
     .header-button-abrir {
@@ -408,7 +415,7 @@ strong:hover {
         border: 1px solid #b7b7b7;
         position: absolute;
         top: 37px;
-        left: 15px;
+        left: 2px;
         right: 0;
         margin: 0 auto;
         border-radius: 8px;
